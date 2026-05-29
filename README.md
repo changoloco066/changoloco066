@@ -3,6 +3,10 @@
 
  # About Me:
 
+Computer Systems Engineer · Networking & Systems enthusiast
+Always exploring lower-level stuff 
+Home lab: private cloud, self-hosted services, Pi-hole + VPN on RPi 🏠🖥️
+
 # Leetcode
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/josue_s)
