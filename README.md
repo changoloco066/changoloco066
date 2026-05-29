@@ -3,9 +3,9 @@
 
  # About Me:
 
-Computer Systems Engineer · Networking & Systems enthusiast
-Always exploring lower-level stuff 
-Home lab: private cloud, self-hosted services, Pi-hole + VPN on RPi 🏠🖥️
+Computer Systems Engineer · Networking & Systems enthusiast <br>
+Always exploring lower-level stuff <br>
+Home lab: private cloud, self-hosted services, Pi-hole + VPN on RPi 🏠🖥️ <br>
 
 # Leetcode
 
