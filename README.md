@@ -5,6 +5,8 @@
 
 # Leetcode
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/josue_s)
+[![Language](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java)]()
 
 
 # Tech Stack:
