@@ -32,7 +32,7 @@ Home lab: private cloud, self-hosted services, Pi-hole + VPN on RPi 🏠🖥️ 
 - Hosting/SaaS<br>
 
 
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   
 ---
 
