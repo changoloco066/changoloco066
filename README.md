@@ -67,6 +67,8 @@ Home lab: private cloud, self-hosted services, Pi-hole + VPN on RPi 🏠🖥️ 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Bash](https://img.shields.io/badge/BASH-121011?style=for-the-badge&logo=gnubash&logoColor=4EAA33)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
