@@ -17,7 +17,7 @@ Spanish spell-checker & grammar correction ecosystem — custom lexer, Hunspell 
 Android widget displaying a random personal reflection daily, named after the original Greek title of Marcus Aurelius' *Meditations*. Room + WorkManager + custom 3-state parser.<br>
 `Java` `Android` `Room`
 
-### 🎓 [qr-asistencia](https://github.com/changoloco066/qr-asistencia)
+### 🎓 qr-asistencia
 QR-based attendance web app built for a university professor — full three-phase feature set, live in production.<br>
 `Flask` `Neon PostgreSQL` `Vercel`
 
@@ -30,7 +30,7 @@ Recursive descent compiler with panic-mode error recovery, symbol table, and syn
 `Java` `Swing`
 
 ### 📦 Inventory Management System *(team project, private repo)*
-JavaFX desktop app connecting to SQL Server via JDBC, with PDF export via iText. Handled the majority of implementation solo within the team.<br>
+JavaFX desktop app connecting to SQL Server via JDBC, with PDF export via iText.<br>
 `Java` `JavaFX` `SQL Server` `JDBC`
 
 # Leetcode
